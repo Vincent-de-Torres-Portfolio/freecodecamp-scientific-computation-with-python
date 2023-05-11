@@ -1,0 +1,2 @@
+# fcc-scientific-computation-w-python
+ This is a project that is part of the freeCodeCamp certification. The objective is to create a function that arranges arithmetic problems in a visually appealing way. The arithmetic_arranger function takes a list of problems and returns a string representing the arranged problems. The README file provides usage instructions, error handling information, and testing examples for the function.
