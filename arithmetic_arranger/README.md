@@ -118,3 +118,9 @@ class TestArithmeticArranger(unittest.TestCase):
 ```
 
 This test function includes additional tests for edge cases, such as an empty list of problems and invalid operators or numbers with too many digits. By testing for these edge cases, you can ensure that your function is robust and can handle unexpected input.
+
+
+### License
+---
+
+This code is licensed under the MIT License.
